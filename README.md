@@ -18,16 +18,18 @@ This repo contains the codes for the [TNNLS paper](https://arxiv.org/pdf/2003.03
 
 ## Citation
 
-Jian Kang, Danfeng Hong, Jialin Liu, Gerald Baier, Naoto Yokoya, Begüm Demir. Learning Convolutional Sparse Coding on Complex Domain for Interferometric Phase Restoration, IEEE Transactions on Neural Networks and Learning Systems, 2020, DOI: 10.1109/ TNNLS.2020.2979546. 
+Jian Kang, Danfeng Hong, Jialin Liu, Gerald Baier, Naoto Yokoya, Begüm Demir. Learning Convolutional Sparse Coding on Complex Domain for Interferometric Phase Restoration, IEEE Transactions on Neural Networks and Learning Systems, 2021, 32(2): 826-840.
 
 ```
 @article{kang2020comcsc,
   title={{Learning Convolutional Sparse Coding on Complex Domain for Interferometric Phase Restoration}},
   author={Kang, Jian and Hong, Danfeng and Liu, Jialin and Baier, Gerald and Yokoya, Naoto and Demir, Begüm},
   journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2020},
-  note={DOI:10.1109/TNNLS.2020.2979546}
-  publisher={IEEE}
+  volume    = {32},
+  number    = {2},
+  pages     = {826-840},
+  year      = {2021},
+  publisher = {IEEE}
 }
 
 ```
